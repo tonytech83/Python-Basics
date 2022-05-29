@@ -1,6 +1,8 @@
+import sys
+
 n = int(input())
 
-max_num = 0
+max_num = -sys.maxsize
 sum_of_small_nums = 0
 
 for num in range(n):
