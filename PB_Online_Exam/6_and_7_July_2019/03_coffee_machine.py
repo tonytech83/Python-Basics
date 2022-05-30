@@ -11,7 +11,7 @@ if sugar == "Without":
             final_price = final_price * 0.75
     elif drink_type == "Cappuccino":
         final_price = drink_count * 1 * 0.65
-    else:  # drink_type == "Tea":
+    else:
         final_price = drink_count * 0.5 * 0.65
 elif sugar == "Normal":
     if drink_type == "Espresso":
@@ -20,7 +20,7 @@ elif sugar == "Normal":
             final_price = final_price * 0.75
     elif drink_type == "Cappuccino":
         final_price = drink_count * 1.2
-    else:  # drink_type == "Tea":
+    else:
         final_price = drink_count * 0.6
 else:
     if drink_type == "Espresso":
@@ -29,7 +29,7 @@ else:
             final_price = final_price * 0.75
     elif drink_type == "Cappuccino":
         final_price = drink_count * 1.6
-    else:  # drink_type == "Tea":
+    else:
         final_price = drink_count * 0.7
 
 if final_price > 15:
