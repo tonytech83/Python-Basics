@@ -6,22 +6,22 @@ cleaned_dishes = 0
 cleaned_pots = 0
 counter = 0
 
-dishes = input()
+kitchen_utensils = input()
 
-while dishes != "End":
+while kitchen_utensils != "End":
     counter += 1
 
     if counter % 3 != 0:
-        detergent_amount -= int(dishes) * 5
-        cleaned_dishes += int(dishes)
+        detergent_amount -= int(kitchen_utensils) * 5
+        cleaned_dishes += int(kitchen_utensils)
     else:
-        detergent_amount -= int(dishes) * 15
-        cleaned_pots += int(dishes)
+        detergent_amount -= int(kitchen_utensils) * 15
+        cleaned_pots += int(kitchen_utensils)
 
     if detergent_amount < 0:
         break
 
-    dishes = input()
+    kitchen_utensils = input()
 
 if detergent_amount >= 0:
     print('Detergent was enough!')
