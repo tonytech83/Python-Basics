@@ -30,9 +30,12 @@ for first in range(35, 55):
                 second += 1
                 if second > 96:
                     second = 64
+
             if break_point:
                 break
+
         if break_point:
             break
+
     if break_point:
         break
