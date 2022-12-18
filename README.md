@@ -18,6 +18,15 @@ In this repository you can find solutions for tasks from the Programming Basics 
 
  - [Problem descriptiom and online judge system](https://judge.softuni.org/) where you can test your solutions for examps.
 
+## Topics
+
+- First Steps in Coding
+- Conditional Statements
+- Conditional Statements Advanced
+- For Loop
+- While Loop
+- Nested Loops
+
 <br/>
 <br/>
 
