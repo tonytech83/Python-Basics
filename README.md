@@ -20,12 +20,12 @@ In this repository you can find solutions for tasks from the Programming Basics 
 
 ## Topics
 
-- First Steps in Coding
-- Conditional Statements
-- Conditional Statements Advanced
-- For Loop
-- While Loop
-- Nested Loops
+- [First Steps in Coding](https://github.com/tonytech83/Python-Basics/tree/main/01_First_Steps_in_Coding_Lab)
+- [Conditional Statements](https://github.com/tonytech83/Python-Basics/tree/main/03_Conditional_Statements_Lab)
+- [Conditional Statements Advanced](https://github.com/tonytech83/Python-Basics/tree/main/05_Conditional_Statements_Advanced_Lab)
+- [For Loop](https://github.com/tonytech83/Python-Basics/tree/main/07_For_Loop_Lab)
+- [While Loop](https://github.com/tonytech83/Python-Basics/tree/main/09_While_Loop_Lab)
+- [Nested Loops](https://github.com/tonytech83/Python-Basics/tree/main/11_Nested_Loops_Lab)
 
 <br/>
 <br/>
